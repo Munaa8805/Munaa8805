@@ -47,12 +47,7 @@ Check out some of my work below 👇
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- You can add dynamic GitHub stats here using services like github-readme-stats -->
-  <!-- Example (replace yourusername): -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=tokyonight&cache_seconds=2"/> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=radical)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=tokyonight)
 
 ---
 
