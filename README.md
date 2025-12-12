@@ -45,7 +45,7 @@ Check out some of my work below 👇
 
 
 <p align="center">
-< image src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Munaa8805
+<img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Munaa8805
 "/>
 
   
