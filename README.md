@@ -49,8 +49,7 @@ Check out some of my work below 👇
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munaa8805)](https://github.com/Munaa8805/github-readme-stats)
+
 
 ---
 
