@@ -48,6 +48,7 @@ Check out some of my work below 👇
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munaa8805)](https://github.com/Munaa8805/github-readme-stats)
 
 ---
 
