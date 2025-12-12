@@ -50,7 +50,7 @@ Check out some of my work below 👇
 <div align="center">
   <!-- You can add dynamic GitHub stats here using services like github-readme-stats -->
   <!-- Example (replace yourusername): -->
-  <img src="https://github-readme-stats.vercel.app/api?username=munaa8805&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=tokyonight"/>
 </div>
 
 ---
