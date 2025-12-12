@@ -15,7 +15,7 @@ I’m a **Web Developer** passionate about designing and building engaging web e
 
 📍 Based in Calgary, Alberta, Canada.
 🌱 Currently improving my full-stack skills.
-📫 Reach me: **munaa.tsetsegmaa@gmail.com
+📫 Reach me: munaa.tsetsegmaa@gmail.com
 
 ---
 
@@ -61,7 +61,7 @@ I’m always open to collaborating on interesting projects or discussing new opp
 
 - 🌐 Portfolio: https://www.munaa.me  
 - ✉️ Email: munaa.tsetsegmaa@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munaa-tsetsegmaa-39a95664/
+- 🔗 LinkedIn: https://linkedin.com/in/munaa-tsetsegmaa-39a95664
 
 ---
 
