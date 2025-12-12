@@ -61,7 +61,7 @@ I’m always open to collaborating on interesting projects or discussing new opp
 
 - 🌐 Portfolio: https://www.munaa.me  
 - ✉️ Email: munaa.tsetsegmaa@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munaa-tsetsegmaa-39a95664/)
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munaa-tsetsegmaa-39a95664/
 
 ---
 
