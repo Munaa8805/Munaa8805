@@ -45,14 +45,6 @@ Check out some of my work below 👇
 
 ---
 
-## 📊 GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
-
-
----
-
 ## 📫 Let’s Connect
 
 I’m always open to collaborating on interesting projects or discussing new opportunities:
