@@ -13,9 +13,9 @@ Hi there 👋 I'm Munaa! This README is shown at the top of my GitHub profile.
 
 I’m a **Web Developer** passionate about designing and building engaging web experiences. I enjoy working with modern technologies and continuously learning new skills to make better products.
 
-📍 Based in Calgary, Alberta, Canada (Estimated location)  
-🌱 Currently improving my full-stack skills and exploring automation with tools like **n8n**  
-📫 Reach me: **munaa@example.com** (replace with your email)
+📍 Based in Calgary, Alberta, Canada.
+🌱 Currently improving my full-stack skills.
+📫 Reach me: **munaa.tsetsegmaa@gmail.com
 
 ---
 
@@ -26,7 +26,7 @@ Here are some technologies I work with:
 - **Frontend:** HTML5, CSS3, JavaScript, React, Next.js  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Tailwind CSS, n8n
+- **Tools:** Git, GitHub, Tailwind CSS.
 
 ---
 
@@ -50,7 +50,7 @@ Check out some of my work below 👇
 <div align="center">
   <!-- You can add dynamic GitHub stats here using services like github-readme-stats -->
   <!-- Example (replace yourusername): -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
 
 ---
@@ -60,9 +60,8 @@ Check out some of my work below 👇
 I’m always open to collaborating on interesting projects or discussing new opportunities:
 
 - 🌐 Portfolio: https://www.munaa.me  
-- ✉️ Email: munaa@example.com  
-- 🐦 Twitter: @yourhandle (optional)  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- ✉️ Email: munaa.tsetsegmaa@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munaa-tsetsegmaa-39a95664/)
 
 ---
 
