@@ -44,16 +44,14 @@ Check out some of my work below 👇
 ➡️ Explore more on my GitHub profile and on my website!
 
 
-## 📊 GitHub Stats 
-
-<div align="center"> 
-  <!-- You can add dynamic GitHub stats here using services like github-readme-stats --> <!-- Example (replace yourusername): --> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true&theme=default" alt="GitHub Stats" /> 
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Munaa8805" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaa8805&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Munaa8805" />
 </div>
+
 
 
 ---
