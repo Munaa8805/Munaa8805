@@ -14,8 +14,7 @@ Hi there 👋 I'm Munaa! This README is shown at the top of my GitHub profile.
 I’m a **Web Developer** passionate about designing and building engaging web experiences. I enjoy working with modern technologies and continuously learning new skills to make better products.
 
 📍 Based in Calgary, Alberta, Canada.
-🌱 Currently improving my full-stack skills.
-📫 Reach me: munaa.tsetsegmaa@gmail.com
+
 
 ---
 
