@@ -48,7 +48,7 @@ Check out some of my work below 👇
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Munaa8805&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaa8805&layout=compact" />
-  <img src="https://streak-stats.demolab.com?user=Munaa8805" />
+  
 </div>
 
 
