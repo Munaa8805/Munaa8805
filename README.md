@@ -1,7 +1,7 @@
 <!--
 Hi there 👋 I'm Munaa! This README is shown at the top of my GitHub profile.
 -->
-![MasterHead](<https://github.com/Th1l1na/Th1l1na/blob/main/github-header-image%20(1).png>)
+![MasterHead](<https://github.com/Munaa8805/Munaa8805/blob/main/github-header-image%20(1).png>)
 
 <h1 align="center">Hi, I’m Munaa 👋</h1>
 <p align="center">
