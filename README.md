@@ -23,10 +23,10 @@ I’m a **Web Developer** passionate about designing and building engaging web e
 
 Here are some technologies I work with:
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js  
+- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS.
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Tailwind CSS.
+- **Tools:** Git, GitHub.
 
 ---
 
