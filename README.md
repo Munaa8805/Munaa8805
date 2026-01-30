@@ -5,7 +5,7 @@ Hi there 👋 I'm Munaa! This README is shown at the top of my GitHub profile.
 
 <h1 align="center">Hi, I’m Munaa 👋</h1>
 <p align="center">
-  🌐 <a href="https://www.munaa.me">My Portfolio Website</a> | 💼 Web Developer | 🚀 Always Learning and Building
+  🌐 <a href="https://www.munaa.dev">My Portfolio Website</a> | 💼 Web Developer | 🚀 Always Learning and Building
 </p>
 
 ---
@@ -35,7 +35,7 @@ Here are some technologies I work with:
 Check out some of my work below 👇
 
 📌 **Portfolio Website**  
-🔗 https://www.munaa.me
+🔗 https://www.munaa.dev
 
 <!-- Example projects — replace with actual repo links -->
 - 💡 [Project One](https://github.com/yourusername/project-one) – Brief description of what it does  
@@ -60,7 +60,7 @@ Check out some of my work below 👇
 
 I’m always open to collaborating on interesting projects or discussing new opportunities:
 
-- 🌐 Portfolio: https://www.munaa.me  
+- 🌐 Portfolio: https://www.munaa.dev
 - ✉️ Email: munaa.tsetsegmaa@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/munaa-tsetsegmaa-39a95664
 
